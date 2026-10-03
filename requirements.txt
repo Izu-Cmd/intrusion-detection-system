@@ -1,0 +1,3 @@
+# Standard library only — no external dependencies.
+# Listed for clarity and to allow future pinning.
+# Python 3.9+ required.
